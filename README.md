@@ -1,6 +1,4 @@
-<div align="center">
-<h1 align="center">Hello👋</h1>
-</div>
+
 <img src="https://i.imgur.com/8DGhHIm.png">
 
 ## About me
