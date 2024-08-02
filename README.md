@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/vuM1gcj.png">
+<img src="https://i.imgur.com/Zo9iDUJ.png">
 
 ## About me
 
