@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Eulenis👋</h1>
 </div>
-<img src="https://imgur.com/gallery/banner-eMP0HTQ">
+<img src="https://i.imgur.com/ZA5bPj0.png">
 
 
 <!--
