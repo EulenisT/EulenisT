@@ -5,7 +5,7 @@
 
 Hi! Welcome to my GitHub. I'm a student in 3rd year of computer science with a specialization in application development. 
 
-I have developed several projects in different programming languages, all in a strictly academic environment. I feel strongly attracted to web development, specifically front-end design and development. With intentions to expand my knowledge to mobile development. My goal is to be able to keep learning every day in the world of computer science. 
+I have developed several projects in different programming languages, all in a strictly academic environment. I'm really interested in web development, specifically in front-end design and development. My goal is to be able to keep learning every day in the world of computer science. 
 <br>
 
 📫 Contact me at : eulenistaraz@gmail.com
