@@ -1,8 +1,8 @@
 ## About me
 
-Hi!👋 Welcome to my GitHub. I'm a student in computer application development. 
+Hi!👋 Welcome to my GitHub. I hold a Bachelor's degree in Computer Science with a specialization in Application Development.
 
-I have developed several projects in different programming languages, all in a strictly academic environment. I'm really interested in web development, specifically in front-end design and development. My goal is to be able to keep learning every day in the world of computer science. 
+I have developed several projects in different programming languages, all in a strictly academic environment. I'm passionate about web development and always eager to keep learning and growing in the world of computer science.
 <br>
 
 <!--
