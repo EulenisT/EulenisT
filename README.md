@@ -1,6 +1,3 @@
-
-<img src="https://i.imgur.com/Zo9iDUJ.png">
-
 ## About me
 
 Hi!👋 Welcome to my GitHub. I'm a student in computer application development. 
